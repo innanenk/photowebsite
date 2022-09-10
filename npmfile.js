@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit http://photography.ramswaroop.me for a treat!");
+    console.log("Visit https://www.instagram.com/caught_inn_motion/?hl=en ");
 };
